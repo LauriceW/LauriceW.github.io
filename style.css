@@ -184,7 +184,7 @@ h6 {
 	color: #444;
 	font-weight: 600;
 	line-height: 1.5;
-	margin: 0 0 30px 0;
+
 	font-family: 'Poppins', sans-serif;
 }
 
@@ -16237,4 +16237,11 @@ label.checkbox { padding-left: 20px; }
 .content-desktop {display: none;}
 /* .content-mobile {display: block;} */
 
+}
+
+#titlediv p {
+	margin: 0%;
+}
+#titlediv h3 {
+	margin: 0%;
 }
